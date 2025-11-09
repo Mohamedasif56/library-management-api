@@ -4,5 +4,5 @@ git init
 git add .
 git commit -m "initial skeleton commit"
 git branch -M main
-git remote add origin https://github.com/<your-username>/<repo-name>.git
+git remote add origin https://github.com/<Mohamedasif56>/<library-management-api>.git
 git push -u origin main
